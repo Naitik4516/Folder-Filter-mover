@@ -14,4 +14,6 @@ Both scripts are useful tools for programmers who need to take backups of their 
 
 Please note that these scripts are intended for use in Python projects and may not be suitable for other programming languages or scenarios. But you can always modify them to suit your needs.
 
+> Note: It's for **Windows** only.
+
 > Note: It's important to ensure that you have the necessary permissions and rights to access and copy files from the source directory to the destination directory.
